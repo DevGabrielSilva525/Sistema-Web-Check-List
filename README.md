@@ -8,4 +8,7 @@ Yuri Sidney - Back-end
 
 1° PARTE: Layout do site (Front-End)
 
+![image](https://user-images.githubusercontent.com/83656344/211949591-0ffdcba4-bada-4fd8-98fe-fbd8d37fb49a.png)
+
+
 
