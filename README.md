@@ -1,4 +1,4 @@
-# Projeto Integrador 3: Sistema Web checklist - UNIVESP
+# Projeto Integrador 3: Tecnologia como suporte à produtividade pessoal
 
 Projeto desenvolvido por alunos da UNIVESP, graduandos do curso Bacharelado em Tecnologia da Informação.
 
@@ -37,6 +37,12 @@ Tecnologias utilizadas: HTML, CSS, JavaScript, Bootstrap e ferramentas para cria
 - PÁGINA SOBRE:
 
 ![TELA SOBRE](https://user-images.githubusercontent.com/83656344/211954621-e3ef9c05-a60f-410e-872a-5d49cdda88d4.png)
+
+- PÁGINA DO CHECK-LIST
+
+![WhatsApp Image 2022-11-28 at 20 47 30](https://user-images.githubusercontent.com/83656344/219881814-492c061a-3a4f-42cf-a990-3c15cd10b65e.jpeg)
+![WhatsApp Image 2022-11-28 at 20 45 33](https://user-images.githubusercontent.com/83656344/219881816-b7156657-fdb1-4945-a97a-3398db2cc57b.jpeg)
+![WhatsApp Image 2022-11-28 at 20 48 20](https://user-images.githubusercontent.com/83656344/219881817-07d779cc-c933-414e-a075-b1b0db9e8b73.jpeg)
 
 ---
 
